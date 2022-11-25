@@ -15,11 +15,6 @@ vis_simv
 vis_simv.daidir
 dve*
 inter.vpd
-DVEfiles
-syn_simv
-syn_simv.daidir
-synsimv
-synsimv.daidir
 vcdplus.vpd
 vc_hdrs.h
 *.elf 
@@ -37,3 +32,6 @@ vc_hdrs.h
 *.pvl
 program.out.bk
 *.res
+*.tbsim
+novas*
+verdi*
