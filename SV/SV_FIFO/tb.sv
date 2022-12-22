@@ -240,7 +240,7 @@ module mod;
     environment env;
 
     fifo_if fif();
-    fifo DUT(
+    fifo #(.SIZE(32)) DUT(
         .clock(fif.clock),
         .rd(fif.rd),
         .wr(fif.wr),
