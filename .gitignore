@@ -35,3 +35,4 @@ program.out.bk
 *.tbsim
 novas*
 verdi*
+*.vcd
